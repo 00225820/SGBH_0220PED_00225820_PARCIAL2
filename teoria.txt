@@ -1,0 +1,10 @@
+Pregunta 1
+¿Cuál serie de pasos es la correcta?
+La serie de pasos correcta es la B, ya que en las línea que representan el paso correcto 6 y 7. enlazan
+el elemento 9, a comparacion de la serie de pasos de la A segun los pasos representados
+guarda el nuevo elemento en la dirección del mismo.
+
+Pregunta 2
+¿Cómo se enlaza con una sola instrucción, entre el 40 y el 12, el nodo que contiene el 9?
+Se podría utilizar la serie de pasos (s->Siguiente)->Siguiente=p;
+
